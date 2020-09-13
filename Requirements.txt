@@ -1,0 +1,2 @@
+MediaWiki = 1.31
+PHP = 7.0
